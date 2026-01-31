@@ -1,0 +1,5 @@
+streamlit==1.45.1
+torch==2.10.0
+torchvision==0.25.0
+Pillow==11.1.0
+numpy==2.1.3
